@@ -1,0 +1,31 @@
+.card{
+
+    width: 400px;
+    min-height: 100px;
+    /*background: #f4eafc;*/
+    background: #cfdaec;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 4px 5px 15px -7px #282c34;
+    z-index: 1000;
+    margin: 20px;
+    padding-bottom: 10px;
+    margin-top: 70px;
+
+
+}
+
+.but{
+    justify-content: space-between;
+}
+.icon{
+    margin:auto;
+
+}
+.icon2{
+    margin-left: 49%;
+}
+.book-card{
+    left: 1000px;
+}

@@ -1,0 +1,38 @@
+header{
+    position: relative;
+}
+
+header .booking{
+    float:right;
+    cursor: pointer;
+}
+
+header .book-card{
+    position: absolute;
+    top:30px;
+    right: 0;
+    width: 450px;
+    min-height: 100px;
+    background: aliceblue;
+    box-shadow: 4px 5px 15px -7px #282c34;
+    z-index: 1000;
+}
+
+.cartItem{
+    margin: auto;
+    position: center;
+    display: inline-block;
+}
+
+.cartItem{
+   msrgin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    vertical-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    overflow: auto;
+    height: auto;
+}
